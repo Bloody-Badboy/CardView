@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="AwesomeCardViewStyle" format="reference" />
+    <color name="awesome_cardview_dark_background">#FF242424</color>
+    <color name="awesome_cardview_dark_shadow">#FF000000</color>
+    <color name="awesome_cardview_light_background">#FFFFFFFF</color>
+    <color name="awesome_cardview_light_shadow">#FF444444</color>
+
+    <declare-styleable name="AwesomeCardView">
+        <attr name="acv_backgroundColor" format="color" />
+        <attr name="acv_cornerSize" format="dimension" />
+        <attr name="acv_cornerSizeTopLeft" format="dimension" />
+        <attr name="acv_cornerSizeTopRight" format="dimension" />
+        <attr name="acv_cornerSizeBottomLeft" format="dimension" />
+        <attr name="acv_cornerSizeBottomRight" format="dimension" />
+        <attr name="acv_elevation" format="dimension" />
+        <attr name="acv_shadowColor" format="color" />
+        <attr name="acv_shadowDy" format="dimension" />
+        <attr name="acv_shadowDx" format="dimension" />
+        <attr name="acv_strokeColor" format="color" />
+        <attr name="acv_strokeWidth" format="dimension" />
+    </declare-styleable>
+</resources>

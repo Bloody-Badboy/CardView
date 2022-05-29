@@ -1,0 +1,23 @@
+public final class dev/arpan/card/BuildConfig {
+	public static final field BUILD_TYPE Ljava/lang/String;
+	public static final field DEBUG Z
+	public static final field LIBRARY_PACKAGE_NAME Ljava/lang/String;
+	public fun <init> ()V
+}
+
+public final class dev/arpan/card/AwesomeCardView : android/widget/FrameLayout {
+	public fun <init> (Landroid/content/Context;)V
+	public fun <init> (Landroid/content/Context;Landroid/util/AttributeSet;)V
+	public fun <init> (Landroid/content/Context;Landroid/util/AttributeSet;I)V
+	public synthetic fun <init> (Landroid/content/Context;Landroid/util/AttributeSet;IILkotlin/jvm/internal/DefaultConstructorMarker;)V
+	public fun setBackground (Landroid/graphics/drawable/Drawable;)V
+	public fun setBackgroundColor (I)V
+	public fun setBackgroundResource (I)V
+	public final fun setCardBackgroundColor (I)V
+	public final fun setCardElevation (F)V
+	public final fun setCornerSizes (FFFF)V
+	public fun setPadding (IIII)V
+	public final fun setStrokeColor (I)V
+	public final fun setStrokeWidth (F)V
+}
+
