@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <attr name="AwesomeCardViewStyle" format="reference" />
+    <attr name="awesomeCardViewStyle" format="reference" />
     <color name="awesome_cardview_dark_background">#FF242424</color>
     <color name="awesome_cardview_dark_shadow">#FF000000</color>
     <color name="awesome_cardview_light_background">#FFFFFFFF</color>

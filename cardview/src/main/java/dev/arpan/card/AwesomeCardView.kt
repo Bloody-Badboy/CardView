@@ -23,7 +23,7 @@ import com.google.android.material.shape.ShapeAppearancePathProvider
 class AwesomeCardView @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
-    @AttrRes defStyleAttr: Int = R.attr.AwesomeCardViewStyle
+    @AttrRes defStyleAttr: Int = R.attr.awesomeCardViewStyle
 ) : FrameLayout(context, attrs, defStyleAttr) {
 
     private val pathProvider = ShapeAppearancePathProvider.getInstance()
